@@ -8,7 +8,7 @@ body.index {
     font-family: Arial,Helvetica,sans-serif;
     font-size: 10px;
     cursor: default;
-    background: url("../images/bg1_index.jpg");
+    background: url("../images/Back.jpg");
     /*background: url("../images/bg_index.jpeg");*/
     /*background-color: mediumpurple;*/
     color: #000;
@@ -187,7 +187,7 @@ p.name {
 }
 
 a.about {
-    margin-left: 93px;
+    margin-left: 155px;
 }
 
 a.return {
